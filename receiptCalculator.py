@@ -147,7 +147,7 @@ def receiptCalculator(itemList):
 
     for person in peopleList:
         totalPricePerPerson = 0
-        payAmountTo = []
+        payAmountTo = {}
         result.append(person + " pays:\n")
         for item in itemList:
             if person in item[2]:
@@ -160,18 +160,23 @@ def receiptCalculator(itemList):
                     + " paid to: "
                     + item[3]
                 )
-                payAmountTo.append([item[3], itemPricePerPerson])
+
+                if(item[3] in payAmountTo):
+                    payAmountTo[item[3]] += itemPricePerPerson
+                else:
+                    payAmountTo[item[3]] = itemPricePerPerson
+
                 totalPricePerPerson += itemPricePerPerson
 
         result.append("\n")
         
         for paidPerson in payAmountTo:
-            if(person != paidPerson[0]):
+            if(person != paidPerson):
                 result.append(
                 "   Price to PAY TO "
-                + paidPerson[0]
+                + paidPerson
                 + ": $"
-                + str("{0:.2f}".format(paidPerson[1]))
+                + str("{0:.2f}".format(payAmountTo[paidPerson]))
 
                 )
 
