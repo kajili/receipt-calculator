@@ -1,7 +1,8 @@
-peopleList = ["name", "test"]
+peopleList = ["Total", "Kevin"]
 
 items = [
-    # [item[0] = itemName, item[1] = itemPrice, item[2] = peopleList]
+    # [item[0] = itemTotal, item[1] = itemPrice, item[2] = peopleList]
+
     # ["Tomato", 5,
     #     ["Joe", "Tylenol", "Dilbo", "Bill Cosby"]],
     # ["Chicken", 20,
@@ -12,55 +13,116 @@ items = [
     #     ["Tylenol", "Joe", "Satan", "Dilbo"]]
 
     ["Firestone Ale", 27.19, 
-        ["name", ]],
+        ["Total", ]],
 
     ["Modelo", 24.16, 
-        ["name", ]],
+        ["Total", ]],
 
     ["Gatorade Fierce", 18, 
-        ["name", ]],
+        ["Total", ]],
 
     ["Kirkland Scotch", 17.99,
-        ["name", ]],
+        ["Total", ]],
 
     ["Sourdough", 4.89,
-        ["name", ]],
+        ["Total", ]],
 
     ["Kirkland PB Pretzel", 8.49,
-        ["name", ]],
+        ["Total", ]],
 
     ["Kirkland Chicken", 15.99,
-        ["name", ]],
+        ["Total", "Kevin", ]],
 
-    ["Mini Peppers", 4.49,
-        ["name", ]],
+    ["Mini Peppers", (4.49 * 2),
+        ["Total", "Kevin", ]],
     
-    # ["Ground", 4,
-    #     ["name", ]],
+    ["Ground Beef", 16.48,
+        ["Total", "Kevin", ]],
     
-    # ["item", 4,
-    #     ["name", ]],
+    ["Steak Flap Meat", 16.77,
+        ["Total", "Kevin", ]],
 
-    # ["item", 4,
-    #     ["name", ]],
+    ["Corn Tortillas", 3.19,
+        ["Total", "Kevin", ]],
 
-    # ["item", 4,
-    #     ["name", ]],
+    ["Chocolate Chip Cookie Dough", 6.99,
+        ["Total", ]],
     
-    # ["item", 4,
-    #     ["name", ]],
-    
-    # ["item", 4,
-    #     ["name", ]],
+    ["Kirkland Mex Cheese", 13.79,
+        ["Total", "Kevin", ]],
             
-    # ["item", 4,
-    #     ["name", ]],
+    ["Kirkland Eggs", (3.79 * 2),
+        ["Total", ]],
+
+    ["Vine Tomatoes", 5.29,
+        ["Total", "Kevin", ]],
             
-    # ["item", 4,
-    #     ["name", ]],
+    ["Kirkland Chicken Thighs", 15.48,
+        ["Total", "Kevin", ]],
+
+    ["Broccoli", 4.99,
+        ["Total", ]],
             
-    # ["item", 4,
-    #     ["name", ]],
+    ["Combo Salsa", 5/79,
+        ["Total", "Kevin", ]],
+            
+    ["Elysian IPA", 22.59,
+        ["Total", ]],
+            
+    ["Floridas Orange Juice", (3.49 * 2),
+        ["Total", ]],
+            
+    ["SB Mozzarella", 6.99,
+        ["Total", "Kevin", ]],
+            
+    ["SB Tonic Water", (1.10 * 2),
+        ["Total", ]],
+            
+    ["SB Drinking Water", (0.99 * 4),
+        ["Total", "Kevin", ]],
+            
+    ["Coca-Cola Classic", (1.77 * 3),
+        ["Total", ]],
+            
+    ["Classico Alfredo Sauce", 2.99,
+        ["Total", "Kevin", ]],
+            
+    ["Classico Red Sauce", 2.99,
+        ["Total", ]],
+            
+    ["Barilla Gluten Free Lasagne", 2.99,
+        ["Total", "Kevin", ]],
+            
+    ["SB Lasagne", 1.69,
+        ["Total", ]],
+            
+    ["Hormel Spam", (2.99 * 2),
+        ["Total", ]],
+            
+    ["Salad Spinach", (1.99 * 2),
+        ["Total", ]],
+            
+    ["Lactaid Milk", 2.99,
+        ["Total", ]],
+            
+    ["Jumex Nectar", (1.29 * 3),
+        ["Total", ]],
+            
+    ["SB Marshmallows", 1.25,
+        ["Total", ]],
+            
+    ["Swiss Miss Cocao", 6.99,
+        ["Total", ]],
+                
+    ["Sour Cream", 2.49,
+        ["Total", "Kevin", ]],
+                
+    ["Tostitos Salsa", 5.29,
+        ["Total", "Kevin", ]],
+                
+    ["Tostitos Chips", 2.99,
+        ["Total", "Kevin", ]]
+            
     
 ]
 
