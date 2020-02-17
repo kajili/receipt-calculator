@@ -1,0 +1,67 @@
+kevin@KevinUbuntu:~/Documents/Git/receipt-calculator$ /usr/bin/python3 /home/kevin/Documents/Git/receipt-calculator/receiptCalculator.py
+
+Joe pays:
+
+     $1.25 for Tomato paid to: Bill Cosby
+     $4.00 for Chicken paid to: Bill Cosby
+     $7.50 for Rum paid to: Joe
+
+
+   Price to PAY TO Bill Cosby: $5.25
+
+   Total Price for Joe: $12.75
+
+
+Tylenol pays:
+
+     $1.25 for Tomato paid to: Bill Cosby
+     $4.00 for Chicken paid to: Bill Cosby
+     $10.00 for Beef paid to: Tylenol
+     $7.50 for Rum paid to: Joe
+
+
+   Price to PAY TO Bill Cosby: $5.25
+   Price to PAY TO Joe: $7.50
+
+   Total Price for Tylenol: $22.75
+
+
+Dilbo pays:
+
+     $1.25 for Tomato paid to: Bill Cosby
+     $4.00 for Chicken paid to: Bill Cosby
+     $10.00 for Beef paid to: Tylenol
+     $7.50 for Rum paid to: Joe
+
+
+   Price to PAY TO Bill Cosby: $5.25
+   Price to PAY TO Tylenol: $10.00
+   Price to PAY TO Joe: $7.50
+
+   Total Price for Dilbo: $22.75
+
+
+Satan pays:
+
+     $4.00 for Chicken paid to: Bill Cosby
+     $7.50 for Rum paid to: Joe
+
+
+   Price to PAY TO Bill Cosby: $4.00
+   Price to PAY TO Joe: $7.50
+
+   Total Price for Satan: $11.50
+
+
+Bill Cosby pays:
+
+     $1.25 for Tomato paid to: Bill Cosby
+     $4.00 for Chicken paid to: Bill Cosby
+     $10.00 for Beef paid to: Tylenol
+
+
+   Price to PAY TO Tylenol: $10.00
+
+   Total Price for Bill Cosby: $15.25
+
+

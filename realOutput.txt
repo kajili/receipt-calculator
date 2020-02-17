@@ -1,0 +1,461 @@
+kevin@KevinUbuntu:~/Documents/Git/receipt-calculator$ /usr/bin/python3 /home/kevin/Documents/Git/receipt-calculator/receiptCalculator.py
+
+Kevin pays:
+
+     $1.78 for Kirkland Chicken Tenderloins paid to: Ianey
+     $1.00 for Mini Peppers paid to: Ianey
+     $1.65 for Ground Beef paid to: Ianey
+     $1.52 for Steak Flap Meat paid to: Ianey
+     $0.27 for Corn Tortillas paid to: Ianey
+     $1.15 for Kirkland Mex Cheese paid to: Ianey
+     $0.66 for Vine Tomatoes paid to: Ianey
+     $1.41 for Kirkland Chicken Thighs paid to: Ianey
+     $0.64 for Costco Combo Salsa paid to: Ianey
+     $0.70 for SB Mozzarella paid to: Ianey
+     $0.36 for SB Drinking Water paid to: Ianey
+     $0.43 for Classico Alfredo Sauce paid to: Ianey
+     $0.43 for Barilla Gluten Free Lasagne paid to: Ianey
+     $0.73 for Drinking Water paid to: Kevin
+     $0.36 for Sour Cream paid to: Payvand
+     $1.06 for Tostitos Salsa paid to: Payvand
+     $0.33 for Tostitos Chips paid to: Payvand
+     $3.75 for Vodka paid to: Conner
+     $0.22 for SB Water paid to: Hannah
+
+
+   Price to PAY TO Ianey: $11.99
+   Price to PAY TO Payvand: $1.75
+   Price to PAY TO Conner: $3.75
+   Price to PAY TO Hannah: $0.22
+
+   Total Price for Kevin: $18.43
+
+
+Christian pays:
+
+     $4.03 for Modelo paid to: Ianey
+     $2.00 for Gatorade Fierce paid to: Ianey
+     $0.61 for Sourdough paid to: Ianey
+     $1.42 for Kirkland PB Pretzel paid to: Ianey
+     $1.78 for Kirkland Chicken Tenderloins paid to: Ianey
+     $1.00 for Mini Peppers paid to: Ianey
+     $1.65 for Ground Beef paid to: Ianey
+     $1.52 for Steak Flap Meat paid to: Ianey
+     $0.27 for Corn Tortillas paid to: Ianey
+     $0.78 for Chocolate Chip Cookie Dough paid to: Ianey
+     $1.15 for Kirkland Mex Cheese paid to: Ianey
+     $0.84 for Kirkland Eggs paid to: Ianey
+     $0.66 for Vine Tomatoes paid to: Ianey
+     $1.41 for Kirkland Chicken Thighs paid to: Ianey
+     $1.25 for Broccoli paid to: Ianey
+     $0.64 for Costco Combo Salsa paid to: Ianey
+     $1.40 for Floridas Orange Juice paid to: Ianey
+     $0.70 for SB Mozzarella paid to: Ianey
+     $0.36 for SB Drinking Water paid to: Ianey
+     $0.43 for Classico Alfredo Sauce paid to: Ianey
+     $0.37 for Classico Red Sauce paid to: Ianey
+     $0.43 for Barilla Gluten Free Lasagne paid to: Ianey
+     $0.21 for SB Lasagne paid to: Ianey
+     $1.99 for Hormel Spam paid to: Ianey
+     $0.57 for Salad Spinach paid to: Ianey
+     $0.73 for Drinking Water paid to: Kevin
+     $1.06 for Tostitos Salsa paid to: Payvand
+     $0.33 for Tostitos Chips paid to: Payvand
+     $3.75 for Vodka paid to: Conner
+     $0.22 for SB Water paid to: Hannah
+     $0.38 for SB Butter paid to: Hannah
+
+
+   Price to PAY TO Ianey: $27.45
+   Price to PAY TO Kevin: $0.73
+   Price to PAY TO Payvand: $1.39
+   Price to PAY TO Conner: $3.75
+   Price to PAY TO Hannah: $0.59
+
+   Total Price for Christian: $33.91
+
+
+Payvand pays:
+
+     $2.00 for Gatorade Fierce paid to: Ianey
+     $0.61 for Sourdough paid to: Ianey
+     $1.42 for Kirkland PB Pretzel paid to: Ianey
+     $1.78 for Kirkland Chicken Tenderloins paid to: Ianey
+     $1.00 for Mini Peppers paid to: Ianey
+     $1.65 for Ground Beef paid to: Ianey
+     $1.52 for Steak Flap Meat paid to: Ianey
+     $0.27 for Corn Tortillas paid to: Ianey
+     $0.78 for Chocolate Chip Cookie Dough paid to: Ianey
+     $1.15 for Kirkland Mex Cheese paid to: Ianey
+     $0.84 for Kirkland Eggs paid to: Ianey
+     $0.66 for Vine Tomatoes paid to: Ianey
+     $1.41 for Kirkland Chicken Thighs paid to: Ianey
+     $1.25 for Broccoli paid to: Ianey
+     $0.64 for Costco Combo Salsa paid to: Ianey
+     $4.52 for Elysian IPA paid to: Ianey
+     $0.70 for SB Mozzarella paid to: Ianey
+     $0.36 for SB Drinking Water paid to: Ianey
+     $1.77 for Coca-Cola Classic paid to: Ianey
+     $0.37 for Classico Red Sauce paid to: Ianey
+     $0.21 for SB Lasagne paid to: Ianey
+     $0.57 for Salad Spinach paid to: Ianey
+     $0.73 for Drinking Water paid to: Kevin
+     $0.65 for Jumex Nectar paid to: Nolan
+     $0.14 for SB Marshmallows paid to: Nolan
+     $1.75 for Swiss Miss Cocao paid to: Nolan
+     $1.06 for Tostitos Salsa paid to: Payvand
+     $0.33 for Tostitos Chips paid to: Payvand
+     $0.22 for SB Water paid to: Hannah
+     $0.38 for SB Butter paid to: Hannah
+
+
+   Price to PAY TO Ianey: $25.47
+   Price to PAY TO Kevin: $0.73
+   Price to PAY TO Nolan: $2.53
+   Price to PAY TO Hannah: $0.59
+
+   Total Price for Payvand: $30.71
+
+
+Conner pays:
+
+     $5.44 for 805 Firestone Ale paid to: Ianey
+     $4.03 for Modelo paid to: Ianey
+     $2.00 for Gatorade Fierce paid to: Ianey
+     $0.61 for Sourdough paid to: Ianey
+     $1.42 for Kirkland PB Pretzel paid to: Ianey
+     $1.65 for Ground Beef paid to: Ianey
+     $1.52 for Steak Flap Meat paid to: Ianey
+     $0.27 for Corn Tortillas paid to: Ianey
+     $0.78 for Chocolate Chip Cookie Dough paid to: Ianey
+     $1.15 for Kirkland Mex Cheese paid to: Ianey
+     $0.84 for Kirkland Eggs paid to: Ianey
+     $4.52 for Elysian IPA paid to: Ianey
+     $0.70 for SB Mozzarella paid to: Ianey
+     $1.77 for Coca-Cola Classic paid to: Ianey
+     $0.43 for Classico Alfredo Sauce paid to: Ianey
+     $0.43 for Barilla Gluten Free Lasagne paid to: Ianey
+     $0.65 for Jumex Nectar paid to: Nolan
+     $0.14 for SB Marshmallows paid to: Nolan
+     $0.33 for Tostitos Chips paid to: Payvand
+     $3.75 for Vodka paid to: Conner
+
+
+   Price to PAY TO Ianey: $27.54
+   Price to PAY TO Nolan: $0.78
+   Price to PAY TO Payvand: $0.33
+
+   Total Price for Conner: $32.40
+
+
+Bridget pays:
+
+     $1.42 for Kirkland PB Pretzel paid to: Ianey
+     $1.00 for Mini Peppers paid to: Ianey
+     $1.52 for Steak Flap Meat paid to: Ianey
+     $0.27 for Corn Tortillas paid to: Ianey
+     $1.15 for Kirkland Mex Cheese paid to: Ianey
+     $0.66 for Vine Tomatoes paid to: Ianey
+     $1.41 for Kirkland Chicken Thighs paid to: Ianey
+     $0.64 for Costco Combo Salsa paid to: Ianey
+     $0.36 for SB Drinking Water paid to: Ianey
+     $0.57 for Salad Spinach paid to: Ianey
+     $0.73 for Drinking Water paid to: Kevin
+     $1.50 for Lactaid Milk paid to: Nolan
+     $0.14 for SB Marshmallows paid to: Nolan
+     $1.75 for Swiss Miss Cocao paid to: Nolan
+     $0.36 for Sour Cream paid to: Payvand
+     $0.33 for Tostitos Chips paid to: Payvand
+     $0.22 for SB Water paid to: Hannah
+     $0.38 for SB Butter paid to: Hannah
+
+
+   Price to PAY TO Ianey: $8.99
+   Price to PAY TO Kevin: $0.73
+   Price to PAY TO Nolan: $3.38
+   Price to PAY TO Payvand: $0.69
+   Price to PAY TO Hannah: $0.59
+
+   Total Price for Bridget: $14.38
+
+
+Nolan pays:
+
+     $5.44 for 805 Firestone Ale paid to: Ianey
+     $2.00 for Gatorade Fierce paid to: Ianey
+     $0.61 for Sourdough paid to: Ianey
+     $1.42 for Kirkland PB Pretzel paid to: Ianey
+     $1.78 for Kirkland Chicken Tenderloins paid to: Ianey
+     $1.65 for Ground Beef paid to: Ianey
+     $1.52 for Steak Flap Meat paid to: Ianey
+     $0.27 for Corn Tortillas paid to: Ianey
+     $0.78 for Chocolate Chip Cookie Dough paid to: Ianey
+     $1.15 for Kirkland Mex Cheese paid to: Ianey
+     $0.84 for Kirkland Eggs paid to: Ianey
+     $1.41 for Kirkland Chicken Thighs paid to: Ianey
+     $0.36 for SB Drinking Water paid to: Ianey
+     $0.73 for Drinking Water paid to: Kevin
+     $1.50 for Lactaid Milk paid to: Nolan
+     $0.65 for Jumex Nectar paid to: Nolan
+     $0.14 for SB Marshmallows paid to: Nolan
+     $1.75 for Swiss Miss Cocao paid to: Nolan
+     $0.36 for Sour Cream paid to: Payvand
+     $0.33 for Tostitos Chips paid to: Payvand
+     $3.75 for Vodka paid to: Conner
+     $0.22 for SB Water paid to: Hannah
+     $0.38 for SB Butter paid to: Hannah
+
+
+   Price to PAY TO Ianey: $19.21
+   Price to PAY TO Kevin: $0.73
+   Price to PAY TO Payvand: $0.69
+   Price to PAY TO Conner: $3.75
+   Price to PAY TO Hannah: $0.59
+
+   Total Price for Nolan: $29.00
+
+
+Hannah pays:
+
+     $4.03 for Modelo paid to: Ianey
+     $2.00 for Gatorade Fierce paid to: Ianey
+     $1.42 for Kirkland PB Pretzel paid to: Ianey
+     $1.00 for Mini Peppers paid to: Ianey
+     $1.65 for Ground Beef paid to: Ianey
+     $1.52 for Steak Flap Meat paid to: Ianey
+     $0.27 for Corn Tortillas paid to: Ianey
+     $0.78 for Chocolate Chip Cookie Dough paid to: Ianey
+     $1.15 for Kirkland Mex Cheese paid to: Ianey
+     $0.66 for Vine Tomatoes paid to: Ianey
+     $1.41 for Kirkland Chicken Thighs paid to: Ianey
+     $0.64 for Costco Combo Salsa paid to: Ianey
+     $0.70 for SB Mozzarella paid to: Ianey
+     $0.36 for SB Drinking Water paid to: Ianey
+     $1.77 for Coca-Cola Classic paid to: Ianey
+     $0.43 for Classico Alfredo Sauce paid to: Ianey
+     $0.37 for Classico Red Sauce paid to: Ianey
+     $0.43 for Barilla Gluten Free Lasagne paid to: Ianey
+     $0.21 for SB Lasagne paid to: Ianey
+     $0.57 for Salad Spinach paid to: Ianey
+     $0.73 for Drinking Water paid to: Kevin
+     $0.14 for SB Marshmallows paid to: Nolan
+     $1.75 for Swiss Miss Cocao paid to: Nolan
+     $0.36 for Sour Cream paid to: Payvand
+     $0.33 for Tostitos Chips paid to: Payvand
+     $3.75 for Vodka paid to: Conner
+     $0.22 for SB Water paid to: Hannah
+
+
+   Price to PAY TO Ianey: $21.35
+   Price to PAY TO Kevin: $0.73
+   Price to PAY TO Nolan: $1.89
+   Price to PAY TO Payvand: $0.69
+   Price to PAY TO Conner: $3.75
+
+   Total Price for Hannah: $28.62
+
+
+Steph pays:
+
+     $1.78 for Kirkland Chicken Tenderloins paid to: Ianey
+     $1.00 for Mini Peppers paid to: Ianey
+     $1.52 for Steak Flap Meat paid to: Ianey
+     $0.27 for Corn Tortillas paid to: Ianey
+     $1.15 for Kirkland Mex Cheese paid to: Ianey
+     $0.84 for Kirkland Eggs paid to: Ianey
+     $0.66 for Vine Tomatoes paid to: Ianey
+     $1.41 for Kirkland Chicken Thighs paid to: Ianey
+     $0.64 for Costco Combo Salsa paid to: Ianey
+     $0.70 for SB Mozzarella paid to: Ianey
+     $0.36 for SB Drinking Water paid to: Ianey
+     $0.43 for Classico Alfredo Sauce paid to: Ianey
+     $0.37 for Classico Red Sauce paid to: Ianey
+     $0.43 for Barilla Gluten Free Lasagne paid to: Ianey
+     $0.21 for SB Lasagne paid to: Ianey
+     $0.57 for Salad Spinach paid to: Ianey
+     $0.73 for Drinking Water paid to: Kevin
+     $0.36 for Sour Cream paid to: Payvand
+     $0.22 for SB Water paid to: Hannah
+
+
+   Price to PAY TO Ianey: $12.33
+   Price to PAY TO Kevin: $0.73
+   Price to PAY TO Payvand: $0.36
+   Price to PAY TO Hannah: $0.22
+
+   Total Price for Steph: $13.63
+
+
+Ianey pays:
+
+     $5.44 for 805 Firestone Ale paid to: Ianey
+     $4.03 for Modelo paid to: Ianey
+     $2.00 for Gatorade Fierce paid to: Ianey
+     $4.50 for Kirkland Scotch paid to: Ianey
+     $0.61 for Sourdough paid to: Ianey
+     $1.78 for Kirkland Chicken Tenderloins paid to: Ianey
+     $1.00 for Mini Peppers paid to: Ianey
+     $1.65 for Ground Beef paid to: Ianey
+     $1.52 for Steak Flap Meat paid to: Ianey
+     $0.27 for Corn Tortillas paid to: Ianey
+     $0.78 for Chocolate Chip Cookie Dough paid to: Ianey
+     $1.15 for Kirkland Mex Cheese paid to: Ianey
+     $0.84 for Kirkland Eggs paid to: Ianey
+     $0.66 for Vine Tomatoes paid to: Ianey
+     $1.41 for Kirkland Chicken Thighs paid to: Ianey
+     $1.25 for Broccoli paid to: Ianey
+     $0.64 for Costco Combo Salsa paid to: Ianey
+     $4.52 for Elysian IPA paid to: Ianey
+     $1.40 for Floridas Orange Juice paid to: Ianey
+     $0.70 for SB Mozzarella paid to: Ianey
+     $1.10 for SB Tonic Water paid to: Ianey
+     $0.36 for SB Drinking Water paid to: Ianey
+     $0.43 for Classico Alfredo Sauce paid to: Ianey
+     $0.37 for Classico Red Sauce paid to: Ianey
+     $0.43 for Barilla Gluten Free Lasagne paid to: Ianey
+     $0.21 for SB Lasagne paid to: Ianey
+     $1.99 for Hormel Spam paid to: Ianey
+     $0.57 for Salad Spinach paid to: Ianey
+     $0.73 for Drinking Water paid to: Kevin
+     $0.65 for Jumex Nectar paid to: Nolan
+     $0.14 for SB Marshmallows paid to: Nolan
+     $0.36 for Sour Cream paid to: Payvand
+     $1.06 for Tostitos Salsa paid to: Payvand
+     $0.33 for Tostitos Chips paid to: Payvand
+     $3.75 for Vodka paid to: Conner
+     $0.22 for SB Water paid to: Hannah
+     $0.38 for SB Butter paid to: Hannah
+     $1.50 for Plastic Bags paid to: Hannah
+     $1.50 for Oranges paid to: Hannah
+
+
+   Price to PAY TO Kevin: $0.73
+   Price to PAY TO Nolan: $0.78
+   Price to PAY TO Payvand: $1.75
+   Price to PAY TO Conner: $3.75
+   Price to PAY TO Hannah: $3.59
+
+   Total Price for Ianey: $52.18
+
+
+Michael pays:
+
+     $5.44 for 805 Firestone Ale paid to: Ianey
+     $4.03 for Modelo paid to: Ianey
+     $2.00 for Gatorade Fierce paid to: Ianey
+     $4.50 for Kirkland Scotch paid to: Ianey
+     $0.61 for Sourdough paid to: Ianey
+     $1.78 for Kirkland Chicken Tenderloins paid to: Ianey
+     $1.00 for Mini Peppers paid to: Ianey
+     $1.65 for Ground Beef paid to: Ianey
+     $1.52 for Steak Flap Meat paid to: Ianey
+     $0.27 for Corn Tortillas paid to: Ianey
+     $0.78 for Chocolate Chip Cookie Dough paid to: Ianey
+     $1.15 for Kirkland Mex Cheese paid to: Ianey
+     $0.84 for Kirkland Eggs paid to: Ianey
+     $0.66 for Vine Tomatoes paid to: Ianey
+     $1.41 for Kirkland Chicken Thighs paid to: Ianey
+     $1.25 for Broccoli paid to: Ianey
+     $0.64 for Costco Combo Salsa paid to: Ianey
+     $4.52 for Elysian IPA paid to: Ianey
+     $1.40 for Floridas Orange Juice paid to: Ianey
+     $0.70 for SB Mozzarella paid to: Ianey
+     $1.10 for SB Tonic Water paid to: Ianey
+     $0.36 for SB Drinking Water paid to: Ianey
+     $0.43 for Classico Alfredo Sauce paid to: Ianey
+     $0.37 for Classico Red Sauce paid to: Ianey
+     $0.43 for Barilla Gluten Free Lasagne paid to: Ianey
+     $0.21 for SB Lasagne paid to: Ianey
+     $1.99 for Hormel Spam paid to: Ianey
+     $0.57 for Salad Spinach paid to: Ianey
+     $0.73 for Drinking Water paid to: Kevin
+     $0.65 for Jumex Nectar paid to: Nolan
+     $0.14 for SB Marshmallows paid to: Nolan
+     $0.36 for Sour Cream paid to: Payvand
+     $1.06 for Tostitos Salsa paid to: Payvand
+     $0.33 for Tostitos Chips paid to: Payvand
+     $3.75 for Vodka paid to: Conner
+     $0.22 for SB Water paid to: Hannah
+     $0.38 for SB Butter paid to: Hannah
+     $1.50 for Plastic Bags paid to: Hannah
+     $1.50 for Oranges paid to: Hannah
+
+
+   Price to PAY TO Ianey: $41.59
+   Price to PAY TO Kevin: $0.73
+   Price to PAY TO Nolan: $0.78
+   Price to PAY TO Payvand: $1.75
+   Price to PAY TO Conner: $3.75
+   Price to PAY TO Hannah: $3.59
+
+   Total Price for Michael: $52.18
+
+
+Ivan pays:
+
+     $5.44 for 805 Firestone Ale paid to: Ianey
+     $4.03 for Modelo paid to: Ianey
+     $2.00 for Gatorade Fierce paid to: Ianey
+     $4.50 for Kirkland Scotch paid to: Ianey
+     $0.61 for Sourdough paid to: Ianey
+     $1.78 for Kirkland Chicken Tenderloins paid to: Ianey
+     $1.00 for Mini Peppers paid to: Ianey
+     $1.65 for Ground Beef paid to: Ianey
+     $0.27 for Corn Tortillas paid to: Ianey
+     $0.78 for Chocolate Chip Cookie Dough paid to: Ianey
+     $1.15 for Kirkland Mex Cheese paid to: Ianey
+     $0.84 for Kirkland Eggs paid to: Ianey
+     $1.41 for Kirkland Chicken Thighs paid to: Ianey
+     $0.64 for Costco Combo Salsa paid to: Ianey
+     $4.52 for Elysian IPA paid to: Ianey
+     $1.40 for Floridas Orange Juice paid to: Ianey
+     $0.70 for SB Mozzarella paid to: Ianey
+     $0.36 for SB Drinking Water paid to: Ianey
+     $0.37 for Classico Red Sauce paid to: Ianey
+     $0.21 for SB Lasagne paid to: Ianey
+     $0.73 for Drinking Water paid to: Kevin
+     $0.65 for Jumex Nectar paid to: Nolan
+     $0.14 for SB Marshmallows paid to: Nolan
+     $3.75 for Vodka paid to: Conner
+     $0.22 for SB Water paid to: Hannah
+     $0.38 for SB Butter paid to: Hannah
+
+
+   Price to PAY TO Ianey: $33.64
+   Price to PAY TO Kevin: $0.73
+   Price to PAY TO Nolan: $0.78
+   Price to PAY TO Conner: $3.75
+   Price to PAY TO Hannah: $0.59
+
+   Total Price for Ivan: $39.49
+
+
+Chris pays:
+
+     $2.00 for Gatorade Fierce paid to: Ianey
+     $0.61 for Sourdough paid to: Ianey
+     $1.78 for Kirkland Chicken Tenderloins paid to: Ianey
+     $1.65 for Ground Beef paid to: Ianey
+     $1.52 for Steak Flap Meat paid to: Ianey
+     $0.27 for Corn Tortillas paid to: Ianey
+     $0.78 for Chocolate Chip Cookie Dough paid to: Ianey
+     $1.15 for Kirkland Mex Cheese paid to: Ianey
+     $0.84 for Kirkland Eggs paid to: Ianey
+     $1.41 for Kirkland Chicken Thighs paid to: Ianey
+     $1.40 for Floridas Orange Juice paid to: Ianey
+     $0.70 for SB Mozzarella paid to: Ianey
+     $0.36 for SB Drinking Water paid to: Ianey
+     $0.37 for Classico Red Sauce paid to: Ianey
+     $0.21 for SB Lasagne paid to: Ianey
+     $0.73 for Drinking Water paid to: Kevin
+     $0.14 for SB Marshmallows paid to: Nolan
+     $0.22 for SB Water paid to: Hannah
+     $0.38 for SB Butter paid to: Hannah
+
+
+   Price to PAY TO Ianey: $15.04
+   Price to PAY TO Kevin: $0.73
+   Price to PAY TO Nolan: $0.14
+   Price to PAY TO Hannah: $0.59
+
+   Total Price for Chris: $16.50
