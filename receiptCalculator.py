@@ -255,12 +255,14 @@ def receiptCalculator(itemList):
                 result.append(
                     "     $"
                     + str("{0:.2f}".format(itemPricePerPerson))
+                    + " [$" + str(item[1]) + " / " + str(len(item[2])) + " People] "
                     + " for "
                     + item[0]
                     + " paid to: "
                     + item[3]
-                    + "\n       [Calculation: "
-                    + "$" + str(item[1]) + " / " + str(len(item[2])) + " People]\n"
+                    + "\n"
+                    # + "\n       [Calculation: "
+                    # + "$" + str(item[1]) + " / " + str(len(item[2])) + " People]\n"
                 )
 
                 if(item[3] in payAmountTo):
@@ -283,7 +285,7 @@ def receiptCalculator(itemList):
                 )
 
         result.append(
-            "\n   Total Price for "
+            "\n\n   Total Price for "
             + person
             + ": $"
             + str("{0:.2f}".format(totalPricePerPerson))
